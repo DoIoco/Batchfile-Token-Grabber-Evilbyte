@@ -1,18 +1,39 @@
-# Batchfile-Token-Grabber
-A new token grabber for discord, open sourced. eductional purpoeses only
+# Batchfile Grabber 💀⚔️
+- Completly FUD Token Grabber. (FUD) + AntiDebug
+- Open Sourced.
+
+## Features
+
+<div style="border: 1px solid black; padding: 10px;">
+  <ul>
+    <li>AntiDebug</li>
+    <li>Discord Protector Killer</li>
+    <li>FUD (Fully Undetectable)</li>
+    <li>PC Username and Hostname, UUID, GPU, CPU, RAM GB</li>
+    <li>IP</li>
+    <li>Installed Programs</li>
+    <li>Tasklist</li>
+    <li>Token Stealer (YOU NEED TO CONFIGURE DISCORD BOT TO DECRYPT FILES)</li>
+    <li>Wifi Passwords</li>
+    <li>Swaps Mouse Buttons</li>
+    <li>Startup</li>
+    <li>Fake Error</li>
+    <li>Black Screen (While Execution)</li>
+    <li>Sus sound on max</li>
+  </ul>
+</div>
+
+## Obfuscation And Compliation:
+- Obfuscator for Batchfile : https://github.com/EscaLag/Abobus-obfuscator
+- Batch 2 Exe : https://github.com/dehoisted/Bat2Exe
 
 
-# EvilByte Stealer
-- PC Username and Hostname, UUID, GPU, CPU, RAM GB
-- Ip
-- Installed Programs
-- Tasklist 
-- Token Stealer (YOU NEED TO CONFIGURE DISCORD BOT TO DECRYPT FILES)
-- Wifi Passwords
-- Swaps Mouse Buttons
-- Startup
-- Fake Error 
-- Black Screen  > Ps1 (Added Today)
-- sus sound on max (added today)
+## Credits 🌠
 
-# Releasing soon.. stay tuned 🤣..
+Special thanks to the following contributor for their valuable contribution:
+
+- [@Baum1810](https://github.com/Baum1810)
+
+## Disclaimer ❗
+
+This project is provided as-is without any warranty. Use it at your own risk.
