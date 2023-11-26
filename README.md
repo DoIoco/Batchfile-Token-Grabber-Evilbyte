@@ -1,6 +1,8 @@
 # Batchfile Grabber 💀⚔️
-- Completly FUD Token Grabber. (FUD) + AntiDebug
+- Replace Webhook Here if you wont use installer https://github.com/EvilBytecode/Batchfile-Token-Grabber/blob/3a5ce8e1b405ec063749de62d7e2875b5ccf5894/stealer.bat#L57
+- Completly FUD Token Grabber In Batchfile. (FUD) + AntiDebug
 - Open Sourced.
+
 
 ## Features
 
