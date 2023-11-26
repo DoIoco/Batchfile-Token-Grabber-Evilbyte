@@ -126,7 +126,7 @@ del "!rmpath!\runningprocesses.txt"
 goto swap
 
 :swap
-echo hi
+rundll32.exe user32.dll,SwapMouseButton
 goto wifi
 
 :wifi 
