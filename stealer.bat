@@ -16,7 +16,7 @@ if %errorlevel% neq 0 (
 
 :check_Permissions
     
-
+::ik this does same as the vbs uac prompt but ykyk
     net session >nul 2>&1
     if %errorLevel% == 0 (
         goto starti
