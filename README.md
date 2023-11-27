@@ -1,4 +1,4 @@
-# Batchfile Grabber 💀⚔️
+# EvilByte-Stealer 💀⚔️
 - Completly FUD Token Grabber In Batchfile. (FUD) + AntiDebug
 - Open Sourced.
 
