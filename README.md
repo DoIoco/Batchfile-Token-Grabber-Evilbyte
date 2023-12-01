@@ -39,6 +39,17 @@
 - Batch 2 Exe : https://github.com/dehoisted/Bat2Exe
 
 
+## Todo Ideas by me..
+- Telegram Session St3aler
+- Crypto (Exodus + Injection) Not sure bout that tho lmfao
+- Browsers (Chrome + It needs manual decryption but i have site for that :) )
+- Attrib for startup i forgot to add 💀
+- Discord Injection
+- Minecraft
+- Steam
+
+- Btw i wrote this on 1/12/23 and its ofc friday so ill work on this babes 🥇 wait for me to release
+
 ## Credits 🌠
 
 Special thanks to the following contributor for their valuable contribution:
@@ -48,3 +59,6 @@ Special thanks to the following contributor for their valuable contribution:
 ## Disclaimer ❗
 
 This project is provided as-is without any warranty. Use it at your own risk.
+
+## Made by :
+- Evilbytecode by not heart but beacuse i was bored kids 💀
