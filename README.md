@@ -50,6 +50,10 @@
 
 - Btw i wrote this on 1/12/23 and its ofc friday so ill work on this babes 🥇 wait for me to release
 
+- Strated working on it at 15/12/2023 current changes i made:
+- Exodus Steeler, Epic Games, Telegram..
+- gets cookie.sqlite from firefox :)) and adding chrome soon as i download it (YOU NEED TO DECRYPT MANUALLY AT;  sqliteviewer.app)
+  
 ## Credits 🌠
 
 Special thanks to the following contributor for their valuable contribution:
