@@ -38,6 +38,11 @@
   </ul>
 </div>
 
+## todo:
+- disable regedit, taskmgr
+- more soon :]
+- pure batch x ps cmds
+
 ## Obfuscation And Compliation:
 - Obfuscator for Batchfile : https://github.com/EscaLag/Abobus-obfuscator
 - Batch 2 Exe : https://github.com/dehoisted/Bat2Exe
