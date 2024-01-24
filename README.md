@@ -19,7 +19,7 @@
   <ul>
     <li>AntiDebug</li>
     <li>Discord Protector Killer</li>
-    <li>FUD (Fully Undetectable)</li>
+    <li>FUD (Fully Undetectable Static)</li>
     <li>PC Username and Hostname, UUID, GPU, CPU, RAM GB</li>
     <li>IP</li>
     <li>Installed Programs</li>
@@ -31,6 +31,8 @@
     <li>Fake Error</li>
     <li>Black Screen (While Execution)</li>
     <li>Sus sound on max</li>
+    <li>Disables Factory Reset</li>
+    <li>Hides Console Window</li>
   </ul>
 </div>
 
