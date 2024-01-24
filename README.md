@@ -34,6 +34,8 @@
     <li>Disables Factory Reset</li>
     <li>Hides Console Window</li>
     <li>Startup</li>
+    <li>Browset Data</li>
+    <li>PC Scrape</li>
   </ul>
 </div>
 
