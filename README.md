@@ -33,6 +33,7 @@
     <li>Sus sound on max</li>
     <li>Disables Factory Reset</li>
     <li>Hides Console Window</li>
+    <li>Startup</li>
   </ul>
 </div>
 
@@ -45,7 +46,6 @@
 - Telegram Session St3aler
 - Crypto (Exodus + Injection) Not sure bout that tho lmfao
 - Browsers (Chrome + It needs manual decryption but i have site for that :) )
-- Attrib for startup i forgot to add 💀
 - Discord Injection
 - Minecraft
 - Steam
