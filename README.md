@@ -41,20 +41,6 @@
 - Obfuscator for Batchfile : https://github.com/EscaLag/Abobus-obfuscator
 - Batch 2 Exe : https://github.com/dehoisted/Bat2Exe
 
-
-## Todo Ideas by me..
-- Telegram Session St3aler
-- Crypto (Exodus + Injection) Not sure bout that tho lmfao
-- Browsers (Chrome + It needs manual decryption but i have site for that :) )
-- Discord Injection
-- Minecraft
-- Steam
-
-- Btw i wrote this on 1/12/23 and its ofc friday so ill work on this babes 🥇 wait for me to release
-
-- Strated working on it at 15/12/2023 current changes i made:
-- Exodus Steeler, Epic Games, Telegram..
-- gets cookie.sqlite from firefox :)) and adding chrome soon as i download it (YOU NEED TO DECRYPT MANUALLY AT;  sqliteviewer.app)
   
 ## Credits 🌠
 
