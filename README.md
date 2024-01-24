@@ -28,13 +28,12 @@
     <li>Wifi Passwords</li>
     <li>Swaps Mouse Buttons</li>
     <li>Startup</li>
-    <li>Fake Error</li>
     <li>Black Screen (While Execution)</li>
     <li>Sus sound on max</li>
     <li>Disables Factory Reset</li>
     <li>Hides Console Window</li>
     <li>Startup</li>
-    <li>Browset Data</li>
+    <li>Browser Data</li>
     <li>PC Scrape</li>
   </ul>
 </div>
