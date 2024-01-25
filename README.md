@@ -22,7 +22,7 @@
     <li>Disables Factory Reset</li>
     <li>Hides Console Window</li>
     <li>Startup</li>
-    <li>Browser Data</li>
+    <li>Browser Data (Cookies,History,Bookmarks)</li>
     <li>PC Scrape</li>
   </ul>
 </div>
